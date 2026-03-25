@@ -36,7 +36,6 @@ Decision Tree
 │── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Advanced-Agriculture-System.git
 cd Advanced-Agriculture-System
 2️⃣ Create Virtual Environment
 python -m venv venv
